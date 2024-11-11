@@ -1,4 +1,4 @@
 # OV-HGAdapter-dataset
 
-COCO and flickor enforce caption by Llama-3-8b
+COCO and flickor30k enforce caption by Llama-3-8b
 coming soon
